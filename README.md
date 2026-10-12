@@ -8,6 +8,8 @@ I work with **C++**, **Rust**, **Go**, **Lua**, **JavaScript**, **TypeScript**, 
 [![atframework docs](https://img.shields.io/badge/Docs-atframework-426a91)](https://atframe.work/)
 [![xresloader docs](https://img.shields.io/badge/Docs-xresloader-66508d)](https://xresloader.atframe.work/)
 [![libcopp docs](https://img.shields.io/badge/Docs-libcopp-426a91)](https://libcopp.atframe.work/)
+[![AICodeReviewer docs](https://img.shields.io/badge/Docs-AICodeReviewer-426a91)](https://aicr.atframe.work/)
+[![LLM Usage docs](https://img.shields.io/badge/Docs-LLM%20Usage-426a91)](https://llm-usage.atframe.work/)
 [![RSS](https://img.shields.io/badge/Subscribe-RSS-126d78)](https://owent.net/index.xml)
 
 - Maintainer of [@atframework](https://github.com/atframework) and [@xresloader](https://github.com/xresloader)
